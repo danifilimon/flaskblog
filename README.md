@@ -4,4 +4,6 @@ Technologies used:
 - flask
 - jinja2
 - bootstrap
-- flask-wtf
+- flask-wtf
+- flask-sqlalchemy
+- sqlite

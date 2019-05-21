@@ -6,10 +6,12 @@ verify_ssl = true
 [dev-packages]
 pylint = "*"
 black = "*"
+autopep8 = "*"
 
 [packages]
 flask = "*"
 flask-wtf = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"
